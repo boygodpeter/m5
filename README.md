@@ -1,9 +1,6 @@
 # M5 Group Test
 
-<video controls="controls" width="600">
-  <source src="assets/demo.mp4" type="video/mp4">
-  你的瀏覽器不支援 HTML5 影片播放。
-</video>
+
 
 
 上周做的事情:
