@@ -10,7 +10,7 @@
   "categories": [
     "Other"
   ],
-  "icon": "icon.jpg",
+  "icon": "icon.png",
   "activationEvents": [
     "onCommand:m5_group_test.convertCommand"
   ],
