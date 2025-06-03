@@ -3,14 +3,14 @@
   "displayName": "m5_group_test",
   "description": "",
   "publisher": "PeterTsai",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "engines": {
     "vscode": "^1.100.0"
   },
   "categories": [
     "Other"
   ],
-  "icon": "icon.jpg", 
+  "icon": "icon.jpg",
   "activationEvents": [
     "onCommand:m5_group_test.convertCommand"
   ],
