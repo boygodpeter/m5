@@ -1,6 +1,6 @@
 # M5 Group Test
 
-
+![操作示範](assets/demo.gif)
 
 
 上周做的事情:
